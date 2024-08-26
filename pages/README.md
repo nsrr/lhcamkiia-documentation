@@ -10,15 +10,13 @@ To facilitate research on the role of CaMKIIα neurons in the lateral hypothalam
 
 ## Methods
 
-See Methods section in:
-
-[Heiss et al. (2024) Distinct lateral hypothalamic CaMKIIa neuronal populations regulate wakefulness and locomotor activity.  Proc Natl Acad Sci U S A. 2024 Apr 16;121(16):e2316150121. doi: 10.1073/pnas.2316150121. Epub 2024 Apr 9. PMID: 38593074](https://pubmed.ncbi.nlm.nih.gov/38593074/)
+See Methods section in: [Heiss et al. (2024) Distinct lateral hypothalamic CaMKIIa neuronal populations regulate wakefulness and locomotor activity.  Proc Natl Acad Sci U S A. 2024 Apr 16;121(16):e2316150121. doi: 10.1073/pnas.2316150121. Epub 2024 Apr 9. PMID: 38593074](https://pubmed.ncbi.nlm.nih.gov/38593074/)
 
 ## Data overview
 
-EDF files exported by a Tucker-Davis Technologies, Inc. (TDT) RZ2 system from tethered recordings, containing bilateral EEG recordings (Channels 1 and 2) from occipito-parietal configuration for redundancy in case one EEG channel failed. Channel 3 corresponds to nuchal EMG. All 3 channels were digitized at 813 Hz and bandpassed at 0.5-300 Hz.
+[:files_path:/](EDF files) exported by a Tucker-Davis Technologies, Inc. (TDT) RZ2 system from tethered recordings, containing bilateral EEG recordings (Channels 1 and 2) from occipito-parietal configuration for redundancy in case one EEG channel failed. Channel 3 corresponds to nuchal EMG. All 3 channels were digitized at 813 Hz and bandpassed at 0.5-300 Hz.
 
-.mat files containing processed EEG files used for analysis. These files were created in Matlab R2015b and can be opened in Matlab, Octave or Python. Each file contains the following variables:
+[:files_path:/processed_mat_files/](MAT files) containing processed EEG files used for analysis. These files were created in Matlab R2015b and can be opened in Matlab, Octave or Python. Each file contains the following variables:
 
 <table>
 <tr><td><b>Variable</b></td><td><b>Meaning</b></td></tr>
