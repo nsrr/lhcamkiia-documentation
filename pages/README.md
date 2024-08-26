@@ -14,9 +14,9 @@ See Methods section in: [Heiss et al. (2024) Distinct lateral hypothalamic CaMKI
 
 ## Data overview
 
-[:files_path:/](EDF files) exported by a Tucker-Davis Technologies, Inc. (TDT) RZ2 system from tethered recordings, containing bilateral EEG recordings (Channels 1 and 2) from occipito-parietal configuration for redundancy in case one EEG channel failed. Channel 3 corresponds to nuchal EMG. All 3 channels were digitized at 813 Hz and bandpassed at 0.5-300 Hz.
+[EDF files](:files_path:/) exported by a Tucker-Davis Technologies, Inc. (TDT) RZ2 system from tethered recordings, containing bilateral EEG recordings (Channels 1 and 2) from occipito-parietal configuration for redundancy in case one EEG channel failed. Channel 3 corresponds to nuchal EMG. All 3 channels were digitized at 813 Hz and bandpassed at 0.5-300 Hz.
 
-[:files_path:/processed_mat_files/](MAT files) containing processed EEG files used for analysis. These files were created in Matlab R2015b and can be opened in Matlab, Octave or Python. Each file contains the following variables:
+[MAT files](:files_path:/processed_mat_files/) containing processed EEG files used for analysis. These files were created in Matlab R2015b and can be opened in Matlab, Octave or Python. Each file contains the following variables:
 
 <table>
 <tr><td><b>Variable</b></td><td><b>Meaning</b></td></tr>
