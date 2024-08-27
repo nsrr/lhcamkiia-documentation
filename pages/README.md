@@ -4,13 +4,13 @@ To facilitate research on the role of CaMKIIα neurons in the lateral hypothalam
 
 1. Male C57BL6/J mice (N=4) were injected with AAV8-CaMKIIα-hM3D(Gq)-mCherry and dosed with either ALM or VEH at ZT4 and SAL or CNO at ZT5 while EEG/EMG was recorded from ZT3 to ZT12 (Fig. 1 of Heiss et al., 2024);
 
-2. Male and female Vglut2-IRES-Cre mice (N=8) were injected with AAV8-hSyn-DIO-hM3D(Gq)-mCHerry and dosed with either DCZ or SAL at ZT2 and recorded from ZT0 to ZT12 (Fig. S1 of Heiss et al., 2024); 
+2. Male and female Vglut2-IRES-Cre mice (N=8) were injected with AAV8-hSyn-DIO-hM3D(Gq)-mCherry and dosed with either DCZ or SAL at ZT2 and recorded from ZT0 to ZT12 (Fig. S1 of Heiss et al., 2024); 
 
 3. Male and female Gad2-IRES-Cre;R26R-EYFP mice (N=10) and C57BL6/J littermates (N=9) were co-injected with 100 nL of a 50-50 mixture of AAV8-CaMKIIα-hM3D(Gq)-mCherry and AAV-CMV-FLEX-mCherry/DTA (Sr10) into the LH to ablate inhibitory neurons in Cre-expressing mice in the same area (Figs. 4 and S5 of Heiss et al., 2024). During the experiments, mice were dosed with either CNO or SAL at ZT4 and recorded from ZT3 to ZT12.  
 
 ## Methods
 
-See Methods section in: [Heiss et al. (2024) Distinct lateral hypothalamic CaMKIIa neuronal populations regulate wakefulness and locomotor activity.  Proc Natl Acad Sci U S A. 2024 Apr 16;121(16):e2316150121. doi: 10.1073/pnas.2316150121. Epub 2024 Apr 9. PMID: 38593074](https://pubmed.ncbi.nlm.nih.gov/38593074/)
+See Methods section in: [Heiss JE, Zhong P, Lee SM, Yamanaka A, Kilduff TS. Distinct lateral hypothalamic CaMKIIα neuronal populations regulate wakefulness and locomotor activity. Proc Natl Acad Sci U S A. 2024 Apr 16;121(16):e2316150121. doi: 10.1073/pnas.2316150121. Epub 2024 Apr 9. PMID: 38593074; PMCID: PMC11032496.](https://pubmed.ncbi.nlm.nih.gov/38593074/)
 
 ## Data overview
 
